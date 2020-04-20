@@ -1,0 +1,52 @@
+D:\Users\Docs\Slalom\Beam\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\TestGraphApi.exe.config
+D:\Users\Docs\Slalom\Beam\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\TestGraphApi.exe
+D:\Users\Docs\Slalom\Beam\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\TestGraphApi.pdb
+D:\Users\Docs\Slalom\Beam\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\GraphApi.dll
+D:\Users\Docs\Slalom\Beam\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Users\Docs\Slalom\Beam\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Docs\Slalom\Beam\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\GraphApi.pdb
+D:\Users\Docs\Slalom\Beam\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Users\Docs\Slalom\Beam\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Docs\Slalom\Beam\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.csprojResolveAssemblyReference.cache
+D:\Users\Docs\Slalom\Beam\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.exe
+D:\Users\Docs\Slalom\Beam\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.pdb
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\TestGraphApi.exe.config
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.exe
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.pdb
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.csprojResolveAssemblyReference.cache
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\TestGraphApi.exe
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\TestGraphApi.pdb
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\GraphApi.dll
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\GraphApi.pdb
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\Newtonsoft.Json.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\TestGraphApi.exe.config
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\TestGraphApi.exe
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\TestGraphApi.pdb
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.csprojResolveAssemblyReference.cache
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.exe
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.pdb
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.csprojResolveAssemblyReference.cache
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.exe
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.pdb
+D:\Anand\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.csprojResolveAssemblyReference.cache
+D:\Anand\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.exe
+D:\Anand\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.pdb
+D:\Anand\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\TestGraphApi.exe.config
+D:\Anand\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\TestGraphApi.exe
+D:\Anand\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\TestGraphApi.pdb
+D:\Anand\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\GraphApi.dll
+D:\Anand\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Anand\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\GraphApi.pdb
+D:\Anand\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\bin\Debug\GraphApi.exe.config
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\bin\Debug\GraphApi.exe
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\bin\Debug\GraphApi.pdb
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.csprojAssemblyReference.cache
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.csproj.CoreCompileInputs.cache
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\obj\Debug\TestGraphApi.csproj.CopyComplete
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\obj\Debug\GraphApi.exe
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\obj\Debug\GraphApi.pdb

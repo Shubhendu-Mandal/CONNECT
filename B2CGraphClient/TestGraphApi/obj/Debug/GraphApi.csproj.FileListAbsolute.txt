@@ -1,0 +1,11 @@
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\bin\Debug\GraphApi.exe.config
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\bin\Debug\GraphApi.exe
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\bin\Debug\GraphApi.pdb
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\obj\Debug\GraphApi.csprojAssemblyReference.cache
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\obj\Debug\GraphApi.csproj.CoreCompileInputs.cache
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\obj\Debug\GraphApi.csproj.CopyComplete
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\obj\Debug\GraphApi.exe
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\TestGraphApi\obj\Debug\GraphApi.pdb

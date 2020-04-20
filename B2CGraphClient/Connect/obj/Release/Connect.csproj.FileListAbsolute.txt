@@ -1,0 +1,317 @@
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Connect.dll.config
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Connect.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Connect.pdb
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\GraphApi.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Web.Infrastructure.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Newtonsoft.Json.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\System.Web.Optimization.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\WebGrease.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.ServerRuntime.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Web.CommandUI.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Data.Edm.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.IdentityModel.Extensions.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.BusinessData.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Data.OData.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Security.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\System.Spatial.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Taxonomy.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Portal.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Publishing.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.UserProfiles.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.Extended.Administration.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.Extended.Administration.ResourceStorage.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.Applications.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.mshtml.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.Extended.Administration.Common.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.Connector.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Excel.Server.WebServices.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.DocumentManagement.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Policy.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.SecureStoreService.Server.Security.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Excel.Server.Udf.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\GraphApi.pdb
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Newtonsoft.Json.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\System.Web.Optimization.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Data.Edm.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.BusinessData.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Data.OData.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Security.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.Runtime.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\System.Spatial.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Taxonomy.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Portal.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Publishing.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.UserProfiles.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.Connector.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.DocumentManagement.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Policy.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\de\Microsoft.Data.OData.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\es\Microsoft.Data.OData.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\it\Microsoft.Data.OData.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\de\System.Spatial.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\es\System.Spatial.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\fr\System.Spatial.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\it\System.Spatial.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ja\System.Spatial.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ko\System.Spatial.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ru\System.Spatial.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hans\System.Spatial.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hant\System.Spatial.resources.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\obj\Release\Connect.csprojResolveAssemblyReference.cache
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\obj\Release\Connect.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\obj\Release\Connect.pdb
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Connect.dll.config
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Connect.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Connect.pdb
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\GraphApi.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Web.Infrastructure.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Newtonsoft.Json.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\System.Web.Optimization.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\WebGrease.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.ServerRuntime.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Web.CommandUI.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Data.Edm.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.IdentityModel.Extensions.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.BusinessData.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Data.OData.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Security.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\System.Spatial.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Taxonomy.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Portal.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Publishing.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.UserProfiles.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.Extended.Administration.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.Extended.Administration.ResourceStorage.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.Applications.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.mshtml.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.Extended.Administration.Common.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.Connector.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Excel.Server.WebServices.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.DocumentManagement.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Policy.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.SecureStoreService.Server.Security.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Excel.Server.Udf.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\GraphApi.pdb
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Newtonsoft.Json.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\System.Web.Optimization.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Data.Edm.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.BusinessData.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Data.OData.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Security.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.Runtime.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\System.Spatial.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Taxonomy.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Portal.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Publishing.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.UserProfiles.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.Connector.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.DocumentManagement.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Policy.xml
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\de\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\es\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\it\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\de\System.Spatial.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\es\System.Spatial.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\fr\System.Spatial.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\it\System.Spatial.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ja\System.Spatial.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ko\System.Spatial.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ru\System.Spatial.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hans\System.Spatial.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hant\System.Spatial.resources.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\obj\Release\Connect.csprojResolveAssemblyReference.cache
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\obj\Release\Connect.dll
+C:\Widen Changes - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\obj\Release\Connect.pdb
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Connect.dll.config
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Connect.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Connect.pdb
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\GraphApi.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Web.Infrastructure.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Newtonsoft.Json.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\System.Web.Optimization.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\WebGrease.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.ServerRuntime.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Web.CommandUI.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Data.Edm.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.IdentityModel.Extensions.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.BusinessData.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Data.OData.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Security.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\System.Spatial.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Taxonomy.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Portal.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Publishing.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.UserProfiles.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.Extended.Administration.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.Extended.Administration.ResourceStorage.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.Applications.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.mshtml.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.Extended.Administration.Common.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.Connector.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Excel.Server.WebServices.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.DocumentManagement.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Policy.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.SecureStoreService.Server.Security.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Excel.Server.Udf.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\GraphApi.pdb
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Newtonsoft.Json.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\System.Web.Optimization.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Search.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Data.Edm.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.BusinessData.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Data.OData.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Security.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Client.Runtime.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\System.Spatial.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Taxonomy.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Portal.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.SharePoint.Publishing.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.UserProfiles.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Server.Search.Connector.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.DocumentManagement.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\Microsoft.Office.Policy.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\de\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\es\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\it\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\de\System.Spatial.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\es\System.Spatial.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\fr\System.Spatial.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\it\System.Spatial.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ja\System.Spatial.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ko\System.Spatial.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\ru\System.Spatial.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hans\System.Spatial.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\bin\zh-Hant\System.Spatial.resources.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\obj\Release\Connect.csprojResolveAssemblyReference.cache
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\obj\Release\Connect.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\Connect\obj\Release\Connect.pdb
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Connect.dll.config
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Connect.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Connect.pdb
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\GraphApi.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Newtonsoft.Json.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\System.Web.Optimization.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\WebGrease.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Microsoft.Web.Administration.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\GraphApi.pdb
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\GraphApi.exe.config
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Newtonsoft.Json.xml
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\System.Web.Optimization.xml
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\obj\Release\Connect.csproj.CoreCompileInputs.cache
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\obj\Release\Connect.csproj.CopyComplete
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\obj\Release\Connect.dll
+C:\Users\Shubhendu\Desktop\B2CGraphClient\B2CGraphClient\Connect\obj\Release\Connect.pdb

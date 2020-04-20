@@ -1,0 +1,33 @@
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\B2C.exe.config
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\B2C.exe
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\B2C.pdb
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\obj\Release\B2CGraphClient.csprojResolveAssemblyReference.cache
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\obj\Release\B2C.exe
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\obj\Release\B2C.pdb
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\B2C.exe.config
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\B2C.exe
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\B2C.pdb
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Newtonsoft.Json.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Newtonsoft.Json.xml
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\obj\Release\B2CGraphClient.csprojResolveAssemblyReference.cache
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\obj\Release\B2C.exe
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\obj\Release\B2C.pdb
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\B2C.exe.config
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\obj\Release\B2C.exe
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\obj\Release\B2C.pdb
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\B2C.exe
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\B2C.pdb
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Newtonsoft.Json.dll
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\bin\Release\Newtonsoft.Json.xml
+C:\Widen Changes - Copy - Copy\B2C-GraphAPI-DotNet-master\B2CGraphClient\obj\Release\B2CGraphClient.csprojResolveAssemblyReference.cache

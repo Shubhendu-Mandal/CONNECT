@@ -1,0 +1,270 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head id="Head1">
+    <title>LOGIN - CONNECT</title>
+
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1" />
+
+    <link href='https://fonts.googleapis.com/css?family=Quattrocento' rel='stylesheet' type='text/css' />
+
+    <link href='https://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css' />
+
+    <style type="text/css">
+        html {
+            width: 100%;
+            height: 100%;
+            background: url('background.png') no-repeat center center;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+
+        body {
+            font-family: "Quattrocento";
+            font-weight: 300;
+            color: #333;
+            text-align: center;
+        }
+
+            body * {
+                box-sizing: border-box;
+            }
+
+        form {
+            max-width: 300px;
+            margin: 2em 1em 0 auto;
+        }
+
+        input[type=text] {
+            width: calc(100% - 1.5em);
+            padding: 0.75em 0.5em;
+        }
+
+        #Main {
+            background-color: #fff;
+            width: 56%;
+            margin: auto;
+            padding: 1em;
+            margin-top: 3%;
+            height: 40%;
+        }
+
+        .RightForm {
+            max-width: 300px;
+            margin: 2em auto 0 1em;
+        }
+
+        .LeftForm {
+            max-width: 300px;
+            margin: 2em auto 0 1em;
+        }
+
+        .topHeader {
+            display: inline-block;
+        }
+
+        div.RightArea {
+            float: right;
+            width: 30vw;
+            min-width: 300px;
+        }
+
+        div.Divider {
+            height: 10vh;
+            min-height: 350px;
+            text-align: center;
+            margin-bottom: 4em;
+        }
+
+        div.DividerLine {
+            width: 350vh;
+            height: 1px;
+            background: #dedede;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        a.usertypeimg
+        {
+            text-decoration: none;
+        }
+
+
+        h1, h3 {
+            letter-spacing: 1.25px;
+            font-weight: 500;
+            font-family: "Oswald";
+            cursor: default;
+        }
+
+            h3 a {
+                color: #333;
+                text-decoration: none;
+            }
+        #UserTypeChoices {
+            background-color: #D5D5D5;
+        }
+
+        .siteLogo {
+            background-image: url('connect_logo.png');
+            height: 3em;
+            width: 350px;
+            display: block;
+            background-size: 300px 48px;
+            background-repeat: no-repeat;
+            padding: 0.5em 1em;
+            margin-top: 1em;
+            background-position: 50%;
+        }
+
+        .container {
+            width: 18%;
+            float: left;
+            margin-left:1%;
+            margin-bottom: 2%;
+            margin-right:1%;
+            margin-top: 2%;
+        }
+
+        .img {
+            background-color: white;
+            width: 100%;
+            float: left;
+            height:70%;
+        }
+
+        .text {
+            text-align: center;
+            font-family: "Oswald";
+            font-size: medium;
+            line-height: normal;
+            color: white;
+            text-align: center;
+            background-color: #C72027;
+            height:30%;
+        }
+        .ICONS {
+            width: 70%;
+            height:70%;
+        }
+
+        .logos {
+            width: 15%;
+        }
+        hr
+        {
+            background-color:#C72027;
+            height:1px;
+            border:0;
+        }
+        @media screen and (max-width:766px) {
+            #Main {
+                width: 95%;
+            }
+            #LeftArea{
+                width:100%;
+            }
+                    #UserTypeChoices {
+                width: 100%;  
+align-content:center;                    }
+                    .container
+                    {
+                        width:30%;
+                        display:inline-block;
+                        float:none;
+                    }
+                    .text{
+                        font-size:small;
+                    }
+            .siteLogo {
+                width: 300px;
+            }
+        }
+
+        @media screen and (min-width:767px) and (max-width:1099px) {
+                #UserTypeChoices
+                {
+                   width:100%;
+                }
+            .container {
+                width: 30%;
+                 display:inline-block;
+                        float:none;
+            }
+            #Main {
+                width: 95%;
+            }
+            
+        }
+
+        @media screen and (min-width:1260px) {
+            #Main {
+                width: 49%;
+            }
+            
+        }
+    </style>
+
+   <!--// <link rel="Stylesheet" href="/Areas/SSOManagement2/Theme/acs.css" type="text/css" />-->
+
+
+</head>
+
+
+
+<body>
+    <header></header>
+    <div id="Main">
+        <div id="SignInContent" class="SignInContent">
+            <div id="LeftArea" class="LeftArea">
+                <h3><b>PLEASE SELECT YOUR USER TYPE</b></h3>
+                <hr />
+                <div id="UserTypeChoices" class="UserTypeChoices">
+                    <div class="container">
+                        <a class="usertypeimg" href="SignUp.aspx?usertype=distributor">
+                            <div class="img"><img CLASS="ICONS" src="iCONS/Truck_Icon.png"/></div>
+                            <div class="text">DISTRIBUTOR<br/>&nbsp;</div>
+                        </a>
+                    </div>
+                    <div class="container">
+                        <a class="usertypeimg" href="SignUp.aspx?usertype=trade">
+                            <div class="img"><img CLASS="ICONS" src="iCONS/Handshake_Icon.png" /></div>
+                            <div class="text">TRADE <br />PARTNER</div>
+                        </a>
+                    </div>
+                    <div class="container">
+                        <a class="usertypeimg" href="SignUp.aspx?usertype=creative_agency">
+                            <div class="img"><img CLASS="ICONS" src="iCONS/Brush_Icon.png" /></div>
+                            <div class="text">CREATIVE<br /> AGENCY</div>
+                        </a>
+                    </div>
+                    <div class="container">
+                        <a class="usertypeimg" href="SignUp.aspx?usertype=promo_agency">
+                            <div class="img"><img CLASS="ICONS" src="iCONS/Megaphone_Icon.png" /></div>
+                            <div class="text">PROMO <br />AGENCY</div>
+                        </a>
+                    </div>
+                    <div class="container">
+                        <a class="usertypeimg" href="SignUp.aspx?usertype=beamsuntorycontractor">
+                            <div class="img"><img CLASS="ICONS" src="iCONS/ID_Icon.png" /></div>
+                            <div class="text">BEAM SUNTORY<br /> CONTRACTOR</div>
+                        </a>
+                    </div>
+                    <div style="clear: both;"></div>
+                </div>
+                <hr />
+                <div>
+                    <img class="logos" src="iCONS/beam-suntory-logo2.png" /><br />
+                    <img src="connectLogo.gif" class="logos" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    
+</body>
+</html>

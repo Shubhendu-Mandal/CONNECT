@@ -1,0 +1,18 @@
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Release\TestGraphApi.exe.config
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Release\TestGraphApi.exe
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Release\TestGraphApi.pdb
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Release\GraphApi.dll
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Release\Newtonsoft.Json.dll
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Release\GraphApi.pdb
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Release\Newtonsoft.Json.xml
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Release\TestGraphApi.csprojResolveAssemblyReference.cache
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Release\TestGraphApi.exe
+C:\Users\spext_setup\Documents\Visual Studio 2015\Projects\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Release\TestGraphApi.pdb
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Release\TestGraphApi.exe.config
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Release\TestGraphApi.exe
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Release\TestGraphApi.pdb
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Release\GraphApi.dll
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\bin\Release\GraphApi.pdb
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Release\TestGraphApi.csprojResolveAssemblyReference.cache
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Release\TestGraphApi.exe
+C:\Widen Changes\B2C-GraphAPI-DotNet-master\B2CGraphClient\TestGraphApi\obj\Release\TestGraphApi.pdb
