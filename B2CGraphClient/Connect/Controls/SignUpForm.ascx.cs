@@ -1,5 +1,6 @@
 ﻿#define PROD
 using System;
+using System.Net;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -400,6 +401,7 @@ namespace Connect.Controls
             GraphApi.B2CUser user = null;
             try
             {
+				ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12 | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls;
                 user = aad.CreateUser(newUser);
             }
             catch (Exception ex)
